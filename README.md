@@ -1,4 +1,4 @@
-# toonflix
+# WebToon project named toonflix
 
 A new Flutter project.
 
